@@ -1,4 +1,4 @@
-# raydium-trading-volume-buster-bot
+# raydium-trading-volume-booster-bot
 increase trading volume on radium Dex easy to install and maintain. no scam like otters bots. one file to run everything is clear and easy
 
 Here is your **complete `README.md`** file in one document:  
