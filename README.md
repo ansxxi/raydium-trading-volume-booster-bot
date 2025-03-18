@@ -253,3 +253,9 @@ This **single file** contains:
 🚀 **Now, save this file as `README.md` in your bot folder (`/home/bot_server`) and you're set!** 🚀  
 
 Let me know if you need **any modifications!** 🎯
+
+if you want help you can reachme at telegram @AnsPich
+
+this code will work if you follow instractions. 
+you can cjanhe FROGKING token to any token changing the token address and pool id. 
+i included example for FrogKing just for users to understand how it works.
