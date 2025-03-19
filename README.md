@@ -1,6 +1,3 @@
-# raydium-trading-volume-booster-bot
-increase trading volume on radium Dex easy to install and maintain. no scam like otters bots. one file to run everything is clear and easy
-
 Here is your **complete `README.md`** file in one document:  
 
 ---
@@ -10,12 +7,12 @@ Here is your **complete `README.md`** file in one document:
 ```md
 # 🐸 Solana Trading Bot - FrogKing Bot
 
-This is an **automated trading bot** for Solana that swaps **FrogKing tokens** (`$FROGK`) with SOL based on balance conditions.
+This is an **automated trading bot** for Solana that swaps **FrogKing tokens** (`$FROGKING`) with SOL based on balance conditions.
 
 ## ⚡ Features
-✅ **Automated Swaps**: Buys and sells `$FROGK` tokens on Solana  
+✅ **Automated Swaps**: Buys and sells `$FROGKING` tokens on Solana  
 ✅ **Balance Management**: Maintains SOL balance to ensure trades continue  
-✅ **Emergency Sell**: Automatically sells `$FROGK` if SOL balance drops too low  
+✅ **Emergency Sell**: Automatically sells `$FROGKING` if SOL balance drops too low  
 ✅ **Customizable Settings**: Swap amounts, delays, and thresholds adjustable  
 ✅ **Auto-Restart**: Runs **24/7** with **PM2** to restart after failures  
 
@@ -72,7 +69,7 @@ mkdir bot_server && cd bot_server
 ```
 Clone the bot:
 ```sh
-git clone your-repo-url .
+git clone https://github.com/ansxxi/raydium-trading-volume-booster-bot.git
 ```
 Or manually upload your `bot.ts` and `.env` files via SCP:
 ```sh
@@ -253,9 +250,3 @@ This **single file** contains:
 🚀 **Now, save this file as `README.md` in your bot folder (`/home/bot_server`) and you're set!** 🚀  
 
 Let me know if you need **any modifications!** 🎯
-
-if you want help you can reachme at telegram @AnsPich
-
-this code will work if you follow instractions. 
-you can cjanhe FROGKING token to any token changing the token address and pool id. 
-i included example for FrogKing just for users to understand how it works.
